@@ -374,7 +374,7 @@ function initContactForm() {
     }
 
     // Prepare mailto link
-    const recipient = 'chalanams@gmail.com';
+    const recipient = 'cchalanams@gmail.com';
     const subject = encodeURIComponent(subjectInput.value.trim() || `Portfolio Inquiry from ${nameInput.value.trim()}`);
     const body = encodeURIComponent(
       `Name: ${nameInput.value.trim()}\nEmail: ${emailInput.value.trim()}\n\nMessage:\n${messageInput.value.trim()}`
@@ -384,7 +384,7 @@ function initContactForm() {
 
     // Display success confirmation message
     alertBox.innerHTML = `
-      <strong>Message Prepared!</strong> Opening your default mail client to deliver your message to <strong>chalanams@gmail.com</strong>.
+      <strong>Message Prepared!</strong> Opening your default mail client to deliver your message to <strong>cchalanams@gmail.com</strong>.
     `;
     alertBox.className = 'form-status-alert success';
     alertBox.style.display = 'block';
