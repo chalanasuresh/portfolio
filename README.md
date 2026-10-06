@@ -2,6 +2,8 @@
 
 A modern, responsive personal developer portfolio website for **Chalana M S**, Computer Science & Engineering Student and Aspiring Software Engineer.
 
+🌐 **Live Website**: [https://portfolio-psi-vert-76.vercel.app](https://portfolio-psi-vert-76.vercel.app)
+
 ---
 
 ## 🚀 Features

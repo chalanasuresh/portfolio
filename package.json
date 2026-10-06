@@ -2,10 +2,9 @@
   "name": "chalana-ms-portfolio",
   "version": "1.0.0",
   "description": "Modern responsive personal portfolio website for Chalana M S",
-  "main": "server.js",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js"
+    "dev": "node local-dev-server.js",
+    "start": "node local-dev-server.js"
   },
   "keywords": [
     "portfolio",
